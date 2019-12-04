@@ -1,1 +1,2 @@
 # Tic-Tac-Toe-Game
+Tic-Tac-Toe is a 2 player game which is played on a grid of 3 squares to 3 squares. The main objective of this game is to score three’s in a row. This game also goes by the names “O’s and X’s” or “Noughts and crosses (British language)” in some languages. It is traditionally played on a piece of paper but now you can even download tic-tac-toe applications and play it on your phone.
